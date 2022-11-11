@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:orange;
+}
+.cronograma{
+    color:white;
+    text-align: center;
+    margin-top: 20px;
+}
+.cronograma h2,.cronograma p{
+    margin-top: 20px;
+    font-size: 40px;
+}
+.cronograma input{
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border:2px solid #ccc;
+    margin-right: 30px;
+    padding:20px 50px;
+    color:white;
+    margin-top: 50px;
+}
+.cronograma input:hover{
+    background-color: white;
+    color:orange;
+}
